@@ -1,1 +1,30 @@
+/* Team SIP: Ivan Lin, Pritom Barua, Sky Chen, Magan Yan
+IntroCS pd07 sec11
+HW05 Stuylin'
+2021-02-09 */
 
+li {
+	color: red;
+}
+
+h1 {
+color: green;
+}
+
+h2 {
+	color: green;
+}
+
+h3 {
+	color: blue;
+}
+
+p {
+	color: orange;
+	font-size: 20px
+}
+
+body {
+	background-color: lavender;
+	font-family: verdana;
+}
