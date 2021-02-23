@@ -9,6 +9,7 @@ li {
 
 h1 {
 color: red;
+	font-family: serif; 
 }
 
 h2 {
@@ -26,5 +27,5 @@ p {
 
 body {
 	background-color: violet;
-	font-family: verdana;
+	font-family: script;
 }
