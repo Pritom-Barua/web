@@ -8,24 +8,28 @@ li {
 }
 
 h1 {
-color: red;
+	color: red;
 	font-family: serif; 
 }
 
 h2 {
 	color: red;
+	font-family: serif; 
 }
 
 h3 {
 	color: gold;
+	font-family: serif; 
 }
 
 p {
 	color: green;
+	font-family: arial; 
 	font-size: 20px
 }
 
 body {
 	background-color: violet;
+	background-size: 1x 2x; 
 	font-family: monospace;
 }
