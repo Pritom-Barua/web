@@ -32,4 +32,6 @@ body {
 	background-color: violet;
 	background-size: 1x 2x; 
 	font-family: monospace;
+	font-style: normal;
+	border: 5px solid blue;
 }
